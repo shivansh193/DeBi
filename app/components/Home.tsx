@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { ArrowRight, Shield, Coins, BarChart, Globe, Users } from 'lucide-react';
+import { ArrowRight, Shield, Coins, BarChart, Globe } from 'lucide-react';
 
 export default function Home() {
   return (

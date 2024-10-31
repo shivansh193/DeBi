@@ -1,3 +1,4 @@
+"use client"
 import React from 'react';
 import { useSearchParams } from 'next/navigation'; // Import useRouter from next/router
 import { Building2, Users, Wallet, BarChart, Shield, Award } from 'lucide-react';

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Wallet, Menu } from 'lucide-react';
+import { Wallet} from 'lucide-react';
 
 export default function Navbar() {
   return (
