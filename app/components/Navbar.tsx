@@ -55,7 +55,7 @@ export default function Navbar() {
           <div className="flex">
             <Link href="/" className="flex items-center">
               <Wallet className="h-8 w-8 text-blue-500" />
-              <span className="ml-2 text-xl font-bold">TokenizeHub</span>
+              <span className="ml-2 text-xl font-bold">DeBi</span>
             </Link>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
               <Link
