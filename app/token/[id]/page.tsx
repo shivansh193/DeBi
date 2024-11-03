@@ -4,10 +4,10 @@ interface TokenPageProps {
     params: {
       id: string;
     };
-  }
-  
-  const TokenPage: React.FC<TokenPageProps> = ({ params }) => {
+}
+
+const TokenPage: React.FC<TokenPageProps> = ({ params }) => {
     return <TokenOffering id={params.id} />;
-  };
-  
-  export default TokenPage;
+};
+
+export default TokenPage;
